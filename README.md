@@ -1,6 +1,6 @@
 <!-- PROJECT SHIELDS -->
-[![Contributors]][contributors-url]
-[![LinkedIn]][linkedin-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
