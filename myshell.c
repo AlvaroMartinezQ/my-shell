@@ -1,3 +1,11 @@
+/*
+My shell project.
+Developed by:
+- Alvaro Martinez Quiroga.
+- Patricia Tarazaga Cozas.
+Any academic copies of this code ARE NOT under our responsibilities.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
