@@ -104,7 +104,7 @@ This project does not have a license, but please, take in mind that we DO NOT ma
 ## Contact
 
 * Alvaro Martinez Quiroga - alvaroo2302@gmail.com
-* Patricia Tarazaga Cozas - 
+* Patricia Tarazaga Cozas - patriciaxadm@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
