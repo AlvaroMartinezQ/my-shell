@@ -98,14 +98,13 @@ Contributions are closed as this is a project which has been already rated. But 
 <!-- LICENSE -->
 ## License
 
-<strong>IMPORTANT </strong>
 This project does not have a license, but remember that we DO NOT make ourselves responsible for any possible academic copy of this project. The code has been uploaded for a learning purpose only.
 
 <!-- CONTACT -->
 ## Contact
 
-Alvaro Martinez Quiroga - alvaroo2302@gmail.com
-Patricia Tarazaga Cozas - 
+* Alvaro Martinez Quiroga - alvaroo2302@gmail.com
+* Patricia Tarazaga Cozas - 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
