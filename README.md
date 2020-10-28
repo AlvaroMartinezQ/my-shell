@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-C program to run a modified Linux shell. This project was developed for the subject of operative systems for the degree of Computer Science Engineering of the Rey Juan Carlos University, 2019 - 2020 course. For any further explanation, please read the docs, included as a PDF file inthe repo.
+C program to run a modified Linux shell. This project was developed for the subject of operative systems for the degree of Computer Science Engineering of the Rey Juan Carlos University, 2019 - 2020 course. For any further explanation, please read the docs, included as a PDF file in the repo.
 
 ### Built With
 
