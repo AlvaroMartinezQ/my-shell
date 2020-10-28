@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AlvaroMartinezQ/my-shell">
-    <img src="imgs/logo.png" alt="Logo" width="80" height="80">
+    <img src="imgs/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MY SHELL</h3>
@@ -48,7 +48,7 @@ C program to run a modified Linux shell. This project was developed for the subj
 
 * [Linux](https://www.linux.org/)
 * [C language](https://en.wikipedia.org/wiki/C_(programming_language))
-* [University's libraries code] (https://www.urjc.es/etsii)
+* [University code](https://www.urjc.es/etsii)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -111,7 +111,9 @@ Patricia Tarazaga Cozas -
 ## Acknowledgements
 
 * [University Rey Juan Carlos](https://www.urjc.es/)
-* [Best Github readme template] (https://github.com/othneildrew/Best-README-Template)
+* [Github readme template](https://github.com/othneildrew/Best-README-Template)
 
+[contributors-shield]: https://img.shields.io/github/contributors/AlvaroMartinezQ/my-shell.svg?style=flat-square
 [contributors-url]: https://github.com/AlvaroMartinezQ/my-shell/graphs/contributors
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://es.linkedin.com/in/alvaro-martinez-quiroga-profile
