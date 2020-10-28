@@ -98,7 +98,7 @@ Contributions are closed as this is a project which has been already rated. But 
 <!-- LICENSE -->
 ## License
 
-This project does not have a license, but remember that we DO NOT make ourselves responsible for any possible academic copy of this project. The code has been uploaded for a learning purpose only.
+This project does not have a license, but please, take in mind that we DO NOT make ourselves responsible for any possible academic copy or copies of this project. The code has been uploaded for a learning purpose only. If any academic entity gets in contact with us and we are able to find similarities in the code, as this is a common learning project, it would be reported to the academic organization and actions will be under their discretion.
 
 <!-- CONTACT -->
 ## Contact
