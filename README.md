@@ -80,6 +80,20 @@ And that's all, simple installation.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+The new way:
+
+1. Use the new Makefile to compile running the following command
+```sh
+make
+```
+
+2. Use the Makefile to run the shell
+```sh
+make run 
+```
+
+The old way:
+
 1. Compile
 ```sh
 gcc myshell.c libparser.a -static -o myshell 
@@ -93,7 +107,7 @@ gcc myshell.c libparser.a -static -o myshell
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are closed as this is a project which has been already rated. But any suggestions are welcomed via email.
+Contributions are closed as this is a project which has been already rated. But any suggestions are welcomed via email, as well as if you find a bug, it would be highly appreciated if it's reported!
 
 <!-- LICENSE -->
 ## License
