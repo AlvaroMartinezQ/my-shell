@@ -68,6 +68,13 @@ void manejador_sigint(int sig);
 /* MAIN */
 
 int main(int argc, char** argv){
+	fprintf(stderr, "\033[1;35m");
+	fprintf(stderr, "\nInicializando MiniShell...\n");
+	fprintf(stderr, "*-- AUTORES --*\n");
+	fprintf(stderr, " Patricia Tarazaga Cozas \n");
+	fprintf(stderr, " Alvaro Martinez Quiroga \n\n");
+	fprintf(stderr, "Para salir ejecute el comando 'exit'\n\n");
+    fprintf(stderr, "\033[0;0m");
 
     char buf[1024];
 
