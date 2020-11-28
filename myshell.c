@@ -3,7 +3,7 @@ My shell project.
 Developed by:
 - Alvaro Martinez Quiroga.
 - Patricia Tarazaga Cozas.
-Any academic copies of this code ARE NOT under our responsibilities.
+Any academic copies of this code are not under our responsibilities.
 */
 
 #include <stdio.h>
