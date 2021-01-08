@@ -124,7 +124,7 @@ This project is under the GNU GENERAL PUBLIC LICENSE, but please, keep in mind t
 ## Acknowledgements
 
 * [University Rey Juan Carlos](https://www.urjc.es/)
-* [Github readme template](https://github.com/othneildrew/Best-README-Template)
+* [Github README template](https://github.com/othneildrew/Best-README-Template)
 
 [contributors-shield]: https://img.shields.io/github/contributors/AlvaroMartinezQ/my-shell.svg?style=flat-square
 [contributors-url]: https://github.com/AlvaroMartinezQ/my-shell/graphs/contributors
